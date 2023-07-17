@@ -1,7 +1,7 @@
 # 여행코스
 
 
-# 오사카-교토: 3박 4일 8.1(화) ~ 8.5(토)
+# 오사카-교토: 4박 5일 8.1(화) ~ 8.5(토)   // 3박4일 변경 가능, 비행기값 변경됨
 - ### 비행기: 49
    * 8.1(화) 08:20 김포 출발 -> 8.5(토) 18:30 인천 도착
    * https://www.skyscanner.co.kr/transport/flights/sela/osaa/230801/230805/?adults=3&adultsv2=3&cabinclass=economy&children=0&childrenv2=&departure-times=0-540,900-1439&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=true&ref=home&rtn=1
@@ -28,7 +28,7 @@
 <br>
 <br>
 
-#  베트남-다낭 8.3(목) ~ 8.8(화) 4박6일 
+#  베트남-다낭 8.3(목) ~ 8.8(화) 4박6일 // 3박 5일 변경 가능, 비행기값 변경됨
 - ### 비행기: 45
   * 8.3(목) 20:50 인천 출발 -> 8.8(화) 08:15 인천 도착
   * https://www.skyscanner.co.kr/transport/flights/sela/dad/230803/230808/?adultsv2=3&cabinclass=economy&childrenv2=&departure-times=1200-1439&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&rtn=1
