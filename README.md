@@ -2,16 +2,13 @@
 /
 # 서울: 2박 3일 8.1(화) ~ 8.3(목)
 - ### KTX: 8.1 천안아산(08:51) -> 서울역(09:34) | 금액: 14,100원
-- ### 숙소: 명동 피제이 호텔(https://naver.me/xXrn9Zw0)  |  방 상세(https://www.hotelpj.co.kr/view/viewLink.do?page=homepage/KOR/accommodation/deluxe_fam_twin) 2박 금액: 354,602원
-![image](https://github.com/lemonyone/travel/assets/116869373/7850fefd-5f28-4799-b8c2-c71d820946ef)
-<br>
-<br>
-<br>
-<br>
+- ### 숙소: 명동 피제이 호텔(https://naver.me/xXrn9Zw0) | 2박 금액: 354,602원
+  + 방 상세(https://www.hotelpj.co.kr/view/viewLink.do?page=homepage/KOR/accommodation/deluxe_fam_twin)
+  
 - ### 뮤지컬
   * 그날들(https://tickets.interpark.com/goods/23006380#)
-    + S석 | 165분(인터미션 20분 포함) | 예술의전당 오페라극장(남부터미널역 근처) / 4매 금액: 408,000원
-    + 8.1(화) 19:30 => 엄기준, 김건우, 효은, 이정열, 김석영, 김산호, 박정표, 곽나윤, 이자영
+    + S석 | 165분(인터미션 20분 포함) | 예술의전당 오페라극장(남부터미널역 근처) / 4인 금액: 408,000원
+    + #### 8.1(화) 19:30 => 엄기준, 김건우, 효은, 이정열, 김석영, 김산호, 박정표, 곽나윤, 이자영
     + 좌석: 파란색 4자리
     
     ![image](https://github.com/lemonyone/travel/assets/116869373/3127978d-070f-428e-9c2f-cb32cad9f94c)
@@ -30,7 +27,7 @@
 - ### 서울식물원(마곡나루역) 
   * 입장료 대인:5000 | 운영시간: 09:30 ~ 18:00 | 1시간전 입장 마감 | 매주 월요일 휴관
     + 야외 공원 산책 가능 
-    + 근처 고양이카페 있음
+    + 근처 고양이카페 있음(https://blog.naver.com/68012006/223158805640)
 
 
 - ### 여의도 더현대 + IFC몰
