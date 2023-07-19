@@ -127,6 +127,16 @@
     + https://blog.naver.com/dpffhd5538/223057999223
   * 프릳츠(한옥 카페 - 빵 추) | 10:00 ~ 20:30
     + https://blog.naver.com/lcy7247/223127798650
+
+- ### 종로3가, 을지로
+  * 최부자보쌈(낙지보쌈, 감자탕 서비스) | 10:30 ~ 24:00
+    + https://blog.naver.com/hans_way/223103889731
+  * 은주정(김치찌개) | 11:30 ~ 22:00
+    + https://blog.naver.com/kangsy0203/223087656820
+    
+- ### 망원역
+  * 어글리베이커리(맘모스빵 - 말차맘모스 추천) | 월, 화 휴무
+    + https://blog.naver.com/skawjddl23/223042097056
 <br>
 <br>
 
