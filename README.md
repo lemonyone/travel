@@ -2,6 +2,7 @@
 /
 # 서울: 2박 3일 8.1(화) ~ 8.3(목)
 - ### KTX: 8.1 천안아산(08:51) -> 서울역(09:34) | 금액: 14,100원
+- ### KTX: 8.3 서울역(14:57) -> 천안아산(15:38) | 금액: 14,100원
 - ### 숙소: 명동 피제이 호텔(https://naver.me/xXrn9Zw0) | 2박 금액: 354,602원
   + 방 상세(https://www.hotelpj.co.kr/view/viewLink.do?page=homepage/KOR/accommodation/deluxe_fam_twin)
   
