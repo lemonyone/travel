@@ -66,6 +66,21 @@
     + https://blog.naver.com/kkyhsa5050/222765847159
   * 잭슨피자(발산역 근처) | 11:00 ~ 22:00 | 배달, 테이크아웃만 가능
     + https://blog.naver.com/2617029zz/223083019845
+  * ### 케렌시아(양식, 브런치, 파스타) | https://naver.me/FQaIuJhd
+    + https://blog.naver.com/jangeunkim/223102861184
+  * ### 예향(쌈+돼지불고기, 쭈꾸미) | https://naver.me/GnGCoVaq
+    + https://blog.naver.com/puhuana/223095881972
+  * ### 송쭈집(쭈꾸미) | https://naver.me/5wfH5S6j
+    + https://blog.naver.com/qufdl0806/223127630617   
+  * ### 봉이밥(보리밥, 털레기 수제비, 쭈꾸미) | https://naver.me/5tj4SsUs
+    + https://blog.naver.com/soojung0621/222997800874
+  * ### 꼼데바베큐 | https://naver.me/5rsZUWJk
+    + https://blog.naver.com/wltnchlrhs2s2/223169551955
+  * ### 옥소반(스끼야, 샤브샤브) | https://naver.me/x0a3tFTX
+    + https://blog.naver.com/longfor_u/223153752270
+  * ### 해례커피(하트시그널4 한겨례 운영) | https://naver.me/5UG5B5aG
+    + https://blog.naver.com/ghgh490/223158984569
+
   
  - ### 염창역
   * 유림(닭도리탕) | 11:30 ~ 22:00 | 21:00 라스트오더
@@ -84,6 +99,13 @@
 - ### 합정역
   * 명현만 간장게장 무한리필 | 11:00 ~ 22:00
     + https://blog.naver.com/anessahn123/223129744467
+
+- ### 공덕역
+  * ### 마포진짜원조최대포(돼지갈비) | https://naver.me/FYuXpLCc
+    + https://blog.naver.com/baaaba/223109227251
+  * ### 장수갈매(갈매기살) | https://naver.me/FAr2duYj
+    + https://blog.naver.com/lovelyr929/223109386068
+    
 
 - ### 광화문역
   * 청진옥(해장국) | 06:00 ~ 21:30
@@ -108,6 +130,8 @@
     + https://blog.naver.com/kizaki56/223046136289
   * 리에제와플 | 08:00 ~ 21:00 
     + https://blog.naver.com/mjinchul1/223050893143
+  * ### 한성식당(곱창전골) | https://naver.me/5mY6nTQT
+    + https://blog.naver.com/gyfla1994/222924481339
   
 - ### 회현역
   * 가매골손왕만두(김치만두 추천) | 08:00 ~ 20:00 | 포장 추천
@@ -134,6 +158,14 @@
     + https://blog.naver.com/hans_way/223103889731
   * 은주정(김치찌개) | 11:30 ~ 22:00
     + https://blog.naver.com/kangsy0203/223087656820
+  * ### 을지로 전주옥(오징어 불갈비찜) | https://naver.me/GHEDElcC
+    + https://blog.naver.com/gyfla1994/222924481339
+  * ### 우정함박(함박스테이) | https://naver.me/Gulbdds3
+    + https://blog.naver.com/zziny_zzin/223168217997 
+  * ### 통돼지집(삼겹살, 목등) | https://naver.me/G0fJPYzH
+    + https://blog.naver.com/seoyoojin96/222980431977
+  * ### 오는정(쪽갈) | https://naver.me/FmgVyjEm
+    + https://blog.naver.com/iwashappy/223010293587       
     
 - ### 망원역
   * 어글리베이커리(맘모스빵 - 말차맘모스 추천) | 월, 화 휴무
