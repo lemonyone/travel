@@ -76,7 +76,7 @@
     + https://blog.naver.com/soojung0621/222997800874
   * ### 꼼데바베큐 | https://naver.me/5rsZUWJk
     + https://blog.naver.com/wltnchlrhs2s2/223169551955
-  * ### 옥소반(스끼야, 샤브샤브) | https://naver.me/x0a3tFTX
+  * ### 옥소반(스끼야키, 샤브샤브) | https://naver.me/x0a3tFTX
     + https://blog.naver.com/longfor_u/223153752270
   * ### 해례커피(하트시그널4 한겨례 운영) | https://naver.me/5UG5B5aG
     + https://blog.naver.com/ghgh490/223158984569
@@ -150,7 +150,7 @@
     + https://blog.naver.com/rkdckgus123/223146144753
   * 어니언(한옥 카페) | 07:00 ~ 22:00
     + https://blog.naver.com/dpffhd5538/223057999223
-  * 프릳츠(한옥 카페 - 빵 추) | 10:00 ~ 20:30
+  * 프릳츠(한옥 카페 - 빵 추천) | 10:00 ~ 20:30
     + https://blog.naver.com/lcy7247/223127798650
 
 - ### 종로3가, 을지로
@@ -160,11 +160,11 @@
     + https://blog.naver.com/kangsy0203/223087656820
   * ### 을지로 전주옥(오징어 불갈비찜) | https://naver.me/GHEDElcC
     + https://blog.naver.com/gyfla1994/222924481339
-  * ### 우정함박(함박스테이) | https://naver.me/Gulbdds3
+  * ### 우정함박(함박스테이크) | https://naver.me/Gulbdds3
     + https://blog.naver.com/zziny_zzin/223168217997 
-  * ### 통돼지집(삼겹살, 목등) | https://naver.me/G0fJPYzH
+  * ### 통돼지집(삼겹살, 목등심) | https://naver.me/G0fJPYzH
     + https://blog.naver.com/seoyoojin96/222980431977
-  * ### 오는정(쪽갈) | https://naver.me/FmgVyjEm
+  * ### 오는정(쪽갈비) | https://naver.me/FmgVyjEm
     + https://blog.naver.com/iwashappy/223010293587       
     
 - ### 망원역
